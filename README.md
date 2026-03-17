@@ -51,7 +51,9 @@ Soy Ingeniero de Sistemas, colegiado en el Colegio de Ingenieros del Perú (CIP)
 
 ### Proyectos personales
 
-- RetoCert: https://retocert.siliconinnova.com
+- RetoCert, simluadores de examenes: https://retocert.siliconinnova.com
+- Página Personalizada: https://sergio-renato.web.app
+- Emprendimiento: https://siliconinnova.com
 
 ## 🎯 Especialidades
 
